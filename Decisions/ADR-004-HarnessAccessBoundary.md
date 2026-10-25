@@ -8,6 +8,8 @@ tags:
 - security
 source: https://github.com/MartinDumas/task-manager-app/blob/main/docs/harness-requirements.md
 status: documented
+related_to:
+- ADR-002-SeparateKnowledgeVault
 ---
 
 # ADR-004 — Межа доступу агенту до vault

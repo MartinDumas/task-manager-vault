@@ -8,6 +8,12 @@ tags:
 - service
 source: https://github.com/MartinDumas/task-manager-app/blob/main/docs/app-requirements.md
 status: planned
+depends_on:
+- RepositoryLayer
+implements:
+- TaskWorkflow
+governed_by:
+- ADR-001-LocalRESTAPI
 ---
 
 # Service Layer

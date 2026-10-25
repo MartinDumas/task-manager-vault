@@ -1,0 +1,17 @@
+# Схема легковагової онтології Task Manager API (ПР4)
+version: 1
+note_types:
+  concept: Concepts
+  component: Components
+  decision: Decisions
+  glossary: Glossary
+  moc: .
+  template: Templates
+  guide: .
+relations:
+  depends_on: "компонент використовує інший компонент"
+  implements: "компонент реалізує поняття/функцію"
+  governed_by: "компонент підпорядкований ADR"
+  verifies: "тестовий модуль перевіряє компонент"
+  related_to: "змістовний зв’язок понять або рішень"
+source: https://github.com/MartinDumas/task-manager-app/blob/main/docs/ontology.md

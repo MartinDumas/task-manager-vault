@@ -8,6 +8,13 @@ tags:
 - repository
 source: https://github.com/MartinDumas/task-manager-app/blob/main/docs/app-requirements.md
 status: planned
+depends_on:
+- DataModels
+- SQLiteStorage
+implements:
+- Task
+governed_by:
+- ADR-003-StorageAndORM
 ---
 
 # Repository Layer

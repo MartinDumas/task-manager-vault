@@ -8,6 +8,10 @@ tags:
 - testing
 source: https://github.com/MartinDumas/task-manager-app/blob/main/docs/app-requirements.md
 status: planned
+verifies:
+- ApiRouter
+- ServiceLayer
+- RepositoryLayer
 ---
 
 # Test Suite

@@ -52,3 +52,7 @@ status: documented
 - [[Template-Decision|Шаблон рішення]]
 - [[Template-Glossary|Шаблон глосарію]]
 - [[Template-MOC|Шаблон MOC]]
+
+## Онтологія та правила доступу (ПР4)
+
+- [[ADR-005-OntologyGuardrails|ADR-005 — таксономія та типізовані зв'язки]]

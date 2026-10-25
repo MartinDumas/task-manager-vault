@@ -8,6 +8,11 @@ tags:
 - task
 source: https://github.com/MartinDumas/task-manager-app/blob/main/docs/app-requirements.md
 status: documented
+related_to:
+- TaskStatus
+- TaskPriority
+- DueDate
+- TaskWorkflow
 ---
 
 # Завдання (Task)

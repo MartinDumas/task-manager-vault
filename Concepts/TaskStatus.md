@@ -8,6 +8,9 @@ tags:
 - status
 source: https://github.com/MartinDumas/task-manager-app/blob/main/docs/app-requirements.md
 status: documented
+related_to:
+- Task
+- TaskWorkflow
 ---
 
 # Статус завдання

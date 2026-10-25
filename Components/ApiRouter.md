@@ -8,6 +8,13 @@ tags:
 - api
 source: https://github.com/MartinDumas/task-manager-app/blob/main/docs/app-requirements.md
 status: planned
+depends_on:
+- ServiceLayer
+- RequestResponseSchemas
+implements:
+- Task
+governed_by:
+- ADR-001-LocalRESTAPI
 ---
 
 # API Router
